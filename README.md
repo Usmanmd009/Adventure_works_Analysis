@@ -8,7 +8,7 @@ The tool used for Analysis and Exploration IS SQLITE.
 
 ### DATA IMPORTATION
 
-The dataset is a CSV file and importing  files into SQLITE can be quite challenging especially using it for the first time and the date  is not the usual format for the default format that SQL recognizes.
+The dataset is a CSV file and importing  files into SQLITE can be quite challenging especially using it for the first time and the date  is not the usual format for the default format that SQL recognizes. https://drive.google.com/drive/folders/1NBVyekPsFIB8Ajb9nhh22WX5eun9NyeW?usp=sharing
 
 
 ### DATA DICTIONARY
