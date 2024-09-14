@@ -34,25 +34,25 @@ We now have a diagram see Below for The Database Diagram for this Analysis.
 
 Below are the Questions and Queries that Provided answers to the questions
 
--- Identify Sales Trends: Analyze sales data to uncover trends over time, including peak
+- Identify Sales Trends: Analyze sales data to uncover trends over time, including peak
 periods and sales dips.
 
--- Understand Customer Behavior: Examine customer demographics and purchasing
+- Understand Customer Behavior: Examine customer demographics and purchasing
 patterns to identify key customer segments and behaviors.
 
--- Evaluate Product Performance: Assess the performance of different products,
+- Evaluate Product Performance: Assess the performance of different products,
 including best-sellers and underperforming items
 
--- Analyze Territorial Differences: Compare sales performance across different regions
+- Analyze Territorial Differences: Compare sales performance across different regions
 to identify high and low-performing areas
 
--- Seasonal Impact: Determine the influence of seasonal trends on sales for various
+- Seasonal Impact: Determine the influence of seasonal trends on sales for various
 product categories.
 
--- Optimize Sales Strategies: Provide recommendations for improving sales strategies
+- Optimize Sales Strategies: Provide recommendations for improving sales strategies
 based on data insights.
 
--- Enhance Product Offerings: Suggest optimizations for product offerings based on
+- Enhance Product Offerings: Suggest optimizations for product offerings based on
 performance and customer preferences.
 
 
