@@ -13,7 +13,7 @@ The dataset is a CSV file and importing  files into SQLITE can be quite challeng
 
 ### DATA DICTIONARY
 
-SCustomer: This table contains information about customers, including demographic data like age, gender, and income. It is connected to the Sales.SalesOrderHeader and Sales.SalesTerritory tables through customer IDs.
+Customer: This table contains information about customers, including demographic data like age, gender, and income. It is connected to the Sales.SalesOrderHeader and Sales.SalesTerritory tables through customer IDs.
 
 Sales.SalesPerson: This table contains information about salespeople, including names and contact information. It is connected to the Sales.SalesOrderHeader table through salesperson IDs.
 
