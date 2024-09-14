@@ -44,11 +44,14 @@ patterns to identify key customer segments and behaviors.
 including best-sellers and underperforming items
 
 Best-Selling Products
+
 ![](bestproducts.png)
   
 
 Underperforming Products
+
  ![](UnderperformingProducts.png)
+ 
 - Analyze Territorial Differences: Compare sales performance across different regions
 to identify high and low-performing areas
 
