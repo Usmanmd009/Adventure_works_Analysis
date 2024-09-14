@@ -44,25 +44,11 @@ patterns to identify key customer segments and behaviors.
 including best-sellers and underperforming items
 
 Best-Selling Products
-
- SELECT 
-  ProductName,
-  SUM(ProductCost * ProductPrice) AS total_sales,
-  SUM(ProductCost * ProductPrice) AS total_revenue
-FROM DimProducts
-GROUP BY ProductName
-ORDER BY total_sales DESC
-LIMIT 10;
+![](bestproducts.png)
+  
 
 Underperforming Products
- SELECT 
-  ProductName,
-  SUM(ProductCost * ProductPrice) AS total_sales,
-  SUM(ProductCost * ProductPrice) AS total_revenue
-FROM DimProducts
-GROUP BY ProductName
-ORDER BY total_sales DESC
-LIMIT 10;
+ ![](UnderperformingProducts.png)
 - Analyze Territorial Differences: Compare sales performance across different regions
 to identify high and low-performing areas
 
