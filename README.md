@@ -55,6 +55,16 @@ Underperforming Products
 - Analyze Territorial Differences: Compare sales performance across different regions
 to identify high and low-performing areas
 
+Higher-performing Territories
+
+![](higher_performing.png)
+
+Low-performing Territories 
+
+![](lowerperforming.png)
+
+
+
 - Seasonal Impact: Determine the influence of seasonal trends on sales for various
 product categories.
 
