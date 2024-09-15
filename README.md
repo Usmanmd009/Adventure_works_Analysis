@@ -34,6 +34,10 @@ FACTS SALES: This table contains  all the sales tables from 2015, 2016 and 2017 
 
 The Data Diagram also known as Entity Relationship Diagram (ERD or ER Diagram) is a type of flowchart that illustrates how “entities” relate to each other within a system or database. The data Diagram was drawn using sqlite.
 
+![](ERDIAGRAM.png)
+
+
+
 We now have a diagram see Below for The Database Diagram for this Analysis.
 
 ### The Dataset is Reported clean and Ready for Analysis.
