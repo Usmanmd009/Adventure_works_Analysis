@@ -13,15 +13,21 @@ The dataset is a CSV file and importing  files into SQLITE can be quite challeng
 
 ### DATA DICTIONARY
 
-Customer: This table contains information about customers, including demographic data like age, gender, and income. It is connected to the Sales.SalesOrderHeader and Sales.SalesTerritory tables through customer IDs.
+Customer: CustomerKey	Prefix	FirstName	LastName	BirthDate	MaritalStatus	Gender	EmailAddress	AnnualIcome	TotalChildren	EducationLevel	Occupation	HomeOwner.
+ 
+Product: This table contains information about the product , including ProductKey	ProductSubcategoryKey	ProductSKU	ProductName	ModelName	ProductDescription	ProductColor	ProductSize	ProductStyle	ProductCost	ProductPrice
 
-Sales.SalesPerson: This table contains information about salespeople, including names and contact information. It is connected to the Sales.SalesOrderHeader table through salesperson IDs.
+Territory: This table contains information about sales territories, including SalesTerritoryKey	Region	Country	Continent
 
-STerritory: This table contains information about sales territories, including geographic locations and sales quotas. It is connected to the Sales.SalesOrderHeader table through territory IDs.
+Product Categories: This table contains ProductCategoryKey	CategoryName
 
-Product: This table contains information about products, including descriptions and prices. It is connected to the Sales.SalesOrderDetail and Purchasing.PurchaseOrderDetail tables through product IDs.
+Product subcategories: This table contains detailed information about ProductSubcategoryKey	,SubcategoryName	,ProductCategoryKey
 
-Sales.SalesOrderDetail: This table contains detailed information about sales orders, including product IDs and quantities sold. It is connected to the Sales.SalesOrderHeader and Production.Product tables through the order and product IDs, respectively.
+Returns: This table contains ReturnDate	TerritoryKey	ProductKey	ReturnQuantity
+
+Calendar: This table contains Date
+
+FACTS SALES: This table contains  all the sales tables from 2015, 2016 and 2017 respectively and it has the following informations as columns OrderDate	StockDate	OrderNumber	ProductKey	CustomerKey	TerritoryKey	OrderLineItem	OrderQuantity
 
 
 ### ENTITY RELATIONSHIP DIAGRAM
