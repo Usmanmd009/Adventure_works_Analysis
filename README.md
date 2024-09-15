@@ -3,7 +3,7 @@
 ### INTRODUCTION
 
 
-This report analyzes the Adventure Works 2019 dataset to inform business decisions and drive growth. Focusing on sales, customers, and products, our analysis identifies key trends and patterns, providing actionable recommendations to enhance operations, customer engagement, and market expansion.
+This report analyzes the Adventure Works 2015,2016,2017 dataset to inform business decisions and drive growth. Focusing on sales, customers, and products, our analysis identifies key trends and patterns, providing actionable recommendations to enhance operations, customer engagement, and market expansion.
 The tool used for Analysis and Exploration IS SQLITE.
 
 ### DATA IMPORTATION
@@ -75,8 +75,28 @@ based on data insights.
 performance and customer preferences.
 
 
+Product performance 
+
+![](Productperformance.png)
+
+Customer preferences
+
+![](customerpreferences.png)
+
+- Product Optimization Suggestions
+
+1. Discontinue underperforming products.
+2. Increase production of best-selling products.
+3. Offer product bundles based on customer purchasing patterns.
+4. Improve product features based on customer ratings and feedback.
+5. Expand product lines to cater to emerging customer preferences.
+  
 ### INSIGHTS
 
+1. Identify top-selling products and categories.
+2. Analyze customer purchasing patterns and preferences.
+3. Detect opportunities for product bundling.
+4. Optimize product offerings based on performance and customer feedback.
 
 
 
