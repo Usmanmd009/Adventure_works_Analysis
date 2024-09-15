@@ -71,6 +71,17 @@ product categories.
 - Optimize Sales Strategies: Provide recommendations for improving sales strategies
 based on data insights.
 
+top-selling products:
+
+![](Sales.png)
+
+
+-  Recommendations
+
+  Foster strong relationships with customers through personalized communication and tailored sales approaches.
+  Consider price adjustments for products with high demand or low sales to optimize revenue.
+  Develop personalized sales strategies for high-value customers to increase loyalty and retention.
+
 - Enhance Product Offerings: Suggest optimizations for product offerings based on
 performance and customer preferences.
 
